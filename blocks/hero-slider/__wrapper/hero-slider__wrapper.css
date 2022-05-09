@@ -1,0 +1,5 @@
+.hero-slider__wrapper {
+    background-image: url(../../../images/hero-1.png);
+    min-height: 800px;
+    position: relative;
+}

@@ -10,3 +10,7 @@
 @import url(../blocks/navbar/__links/navbar__links.css);
 @import url(../blocks/navbar/__link/navbar__link.css);
 @import url(../blocks/button/button.css);
+@import url(../blocks/hero-slider/hero-slider.css);
+@import url(../blocks/hero-slider/__wrapper/hero-slider__wrapper.css);
+@import url(../blocks/hero-slider/__company/hero-slider__company.css);
+@import url(../blocks/hero-slider/__title/hero-slider__title.css);
