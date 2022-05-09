@@ -2,4 +2,11 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/navbar/navbar.css);
 @import url(../blocks/navbar/__head/navbar__head.css);
+@import url(../blocks/navbar/__wrapper/navbar__wrapper.css);
+@import url(../blocks/navbar/__contact/navbar__contact.css);
+@import url(../blocks/navbar/__line/navbar__line.css);
 @import url(../blocks/navbar/__menu/navbar__menu.css);
+@import url(../blocks/navbar/__logo/header__logo.css);
+@import url(../blocks/navbar/__links/navbar__links.css);
+@import url(../blocks/navbar/__link/navbar__link.css);
+@import url(../blocks/button/button.css);

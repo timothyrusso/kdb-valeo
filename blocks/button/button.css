@@ -1,6 +1,7 @@
-.navbar__head {
+.button {
     background-color: #103368;
+    border: none;
     min-height: 40px;
+    padding: 0 26px;
     color: #fff;
-    display: flex;
 }
